@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hossein Goushehgir
 
-<!--
-**modamatan/modamatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ph.D. student in Computational Mathematics working on finite-element methods,
+PDEs, multiphysics modeling, and scientific computing.
 
-Here are some ideas to get you started:
+## Research & Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Anisotropic phase-field modeling of rapid solidification — C++17 / MATLAB
+- Isotropic multiphysics phase-field modeling — C++17 / MATLAB
+- Cahn–Hilliard–Navier–Stokes finite-element solver — C++17 / MATLAB
+
+## Technical Focus
+
+C++ • MATLAB • Finite Element Methods • PDEs • Numerical Analysis
+• Scientific Computing • Sparse Linear Algebra
