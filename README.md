@@ -12,7 +12,7 @@ Ph.D. Candidate in Computational Mathematics focused on finite-element methods, 
 
 ## Technical Focus
 
-**MATLAB** • **Finite Element Methods** • **Numerical Analysis** • **Scientific Computing** • **Linear Algebra** • **Multiphysics Modeling** • **C++**
+**MATLAB** • **Finite Element Methods** • **Numerical Analysis** • **Scientific Computing** • **Multiphysics Modeling** • **C++**
 
 ## Links
 
